@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/flizzet/Documents/JavaWorkspace/Dragonfly/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b78242211b7a3a13c6117c375f6c94bbc87bf1e6">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/Dragonfly/android/build/intermediates/pre-dexed/debug/core-1.0_c7d2e2acddab751a207a3a6e02300eef6f1eea16.jar" />
+    </item>
+
+</items>
